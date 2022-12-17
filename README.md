@@ -22,7 +22,7 @@
 
 第一步：打开浏览器，按F12打开开发者工具，点击网络/Network选项卡
 
-第二步：打开小破站首页`https://www.bilibili.com/`，找到`www.bilibili.com`网络请求，在`标头`=>`请求表头`中找到cookie
+第二步：打开小破站首页`https://www.bilibili.com`，找到`www.bilibili.com`网络请求，在`标头`=>`请求表头`中找到cookie
 
 ![](https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/bilibili_2.png)
 
