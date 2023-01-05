@@ -88,7 +88,7 @@ class Main(QMainWindow, MainWindow):
         }
         response = requests.get(url, headers=headers, params=_datas)
         response = response.text
-        res = response.split('[')[1].split(']')[0]
+        res = response.split(':[')[1].split(']}')[0]
         res = '[' + res + ']'
         res.replace('null', 'None')
         res = json.loads(res)
