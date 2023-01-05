@@ -12,7 +12,7 @@
 
 ### 方式一： 直接下载现成打包好的软件
 
-下载链接：`https://wwuw.lanzouf.com/iWWW60iwmmqb`
+下载链接：`https://wwuw.lanzouf.com/iMv0E0k6ae6h`
 
 注意：部分杀毒软件可能会报毒，无视即可，如不放心请自行查看源码
 
